@@ -1,0 +1,5 @@
+.idea/*
+*.class
+*.var
+*.jar
+*.ear
